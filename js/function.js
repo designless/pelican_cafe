@@ -1,6 +1,6 @@
 jQuery(document).ready(function($) {
 //bxslider
-$('#slider ul').bxSlider({
+$('#key_visual ul').bxSlider({
 	auto: true,
 	mode: 'fade',
 	speed: 2000,
