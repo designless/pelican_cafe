@@ -87,7 +87,7 @@ h1 {
 /* ==========================================
 GROBAL NAVI
 ========================================== */
-#gnav{
+#gnav {
 	float: right;
 }
 
@@ -96,7 +96,7 @@ GROBAL NAVI
 	padding-top: 18px;
 }
 
-#gnav li{
+#gnav li {
 	float: left;
 	margin-right: 60px;}
 

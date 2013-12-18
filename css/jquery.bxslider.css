@@ -142,7 +142,7 @@
 	width: 10px;
 	height: 11px;
 	outline: 0;
-	background: url("http://tatin.jp/css/images/bx_controls.png") -86px -11px no-repeat;
+	background: url("../images/bx_controls.png") -86px -11px no-repeat;
 	margin: 0 3px;
 }
 
@@ -157,7 +157,7 @@
 	width: 9px;
 	height: 11px;
 	outline: 0;
-	background: url("http://tatin.jp/css/images/bx_controls.png") -86px -44px no-repeat;
+	background: url("../images/bx_controls.png") -86px -44px no-repeat;
 	margin: 0 3px;
 }
 
